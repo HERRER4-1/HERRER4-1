@@ -33,8 +33,9 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=vue&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=vue&hide_border=true)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Trofeos de Github 🏆
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=onedark&no-frame=true)]
+[![Trofeos de GitHub](https://github.com/ryo-ma/github-profile-trophy)
