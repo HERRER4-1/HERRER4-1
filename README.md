@@ -66,6 +66,13 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 
 ### Distribución de Contribución
 
+
+<div align="center">
+  <a href="https://github.com/Ashish-2503/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HERRER4-1&theme=react-dark&hide_border=true&area=true&type=scatter" alt="Gráfico de Distribución de Contribución (Cruz Verde)" />
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/Ashish-2503/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HERRER4-1&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Distribución de Contribución" />
