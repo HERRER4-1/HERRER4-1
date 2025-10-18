@@ -6,6 +6,7 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 
 👨🏻‍💻 Estudiante de Ingenieria Informatica.
 
+
 ## Manejo de Tecnologias:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,6 +33,8 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 ![API](https://img.shields.io/badge/API-E34F26?style=for-the-badge&logo=api&logoColor=white)
 
 
+
+
 ## Estadísticas de Github 📊
 
 <div align="center">
@@ -48,11 +51,13 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=HERRER4-1&theme=onedark&hide_border=true" alt="Racha de Contribuciones"/>
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=onedark&hide_border=true" alt="Lenguajes Más Usados" />
-  </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=onedark&hide_border=true&langs_count=10" alt="Lenguajes Más Usados" />
+</a>
 
 </div>
+
+
 
 ## Trofeos de Github 🏆
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
