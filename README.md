@@ -28,8 +28,8 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=rest&logoColor=white)
-![API](https://img.shields.io/badge/API-333333?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C39?style=for-the-badge&logo=rest&logoColor=white)
+![API](https://img.shields.io/badge/API-E34F26?style=for-the-badge&logo=api&logoColor=white)
 
 
 ## Estadísticas de Github 📊
