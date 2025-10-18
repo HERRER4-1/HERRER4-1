@@ -29,11 +29,25 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-## Estadisticas de Github 📊 
+## Estadísticas de Github 📊
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=vue&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=onedark&hide_border=true" alt="Lenguajes Más Usados" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HERRER4-1&theme=onedark&hide_border=true" alt="Gráfico de Contribuciones" />
+  </a>
+</p>
 
 ## Trofeos de Github 🏆
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
