@@ -1,6 +1,6 @@
 ## Acerca de mi ⚡
 
-Amante de la tecnologia, apasasionado por la programacion, motivado a aprender y ser mejor cada dia.
+Amante de la tecnologia, apasasionado por la programacion, siempre motivado a aprender y ser mejor cada dia.
 
 Estudio y practico para especializarme en el desarrollo de aplicaciones moviles [fullstack].
 
