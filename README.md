@@ -61,7 +61,7 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 
 
 ## Trofeos de Github 🏆
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=darkhub&no-frame=true&no-achievement=true)](https://github.com/ryo-ma/github-profile-trophy&no-achievement=true)
 
 
 ### Distribución de Contribución
