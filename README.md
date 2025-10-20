@@ -41,11 +41,11 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=darkhub&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=darkhub&hide_title=true&hide_border=true&hide=stars,prs,issues,contribs" alt="Total Contribuciones" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HERRER4-1&show_icons=true&theme=dark&hide_title=true&hide_border=true&hide=stars,prs,issues,contribs" alt="Total Contribuciones" />
   </a>
   
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -53,7 +53,7 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
   </a>
   
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=darkhub&hide_border=true&langs_count=10" alt="Lenguajes Más Usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERRER4-1&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Lenguajes Más Usados" />
 </a>
 
 </div>
@@ -61,7 +61,7 @@ Estudio y practico para especializarme en el desarrollo de aplicaciones moviles 
 
 
 ## Trofeos de Github 🏆
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=HERRER4-1&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Distribución de Contribución
