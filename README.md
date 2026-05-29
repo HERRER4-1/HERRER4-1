@@ -2,9 +2,9 @@
 
 Amante de la tecnologia, apasasionado por la programacion, siempre motivado a aprender y ser mejor cada dia.
 
-Estudio y practico para especializarme en el desarrollo de aplicaciones moviles [fullstack].
+Especializado en el desarrollo de aplicaciones moviles y sistemas de gestión [fullstack].
 
-👨🏻‍💻 Estudiante de Ingenieria Informatica.
+👨🏻‍💻 Ingeniero en Informatica.
 
 
 ## Manejo de Tecnologias:
